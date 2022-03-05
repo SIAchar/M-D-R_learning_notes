@@ -51,5 +51,4 @@
 [12]:https://anesck.github.io/M-D-R_learning_notes/RLTPI/notes_html/12.chapter_twelve.html	"查看笔记"
 [13]: https://github.com/ZhiqingXiao/rl-book
 
-### 三、欢迎阅读和纠错，有问题请联系：<578449387@qq.com>，如果有帮助的话麻烦点颗星
 
